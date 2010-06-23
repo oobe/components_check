@@ -1,11 +1,11 @@
-component_check.php¬O¥»Åé¡C³o¥u¬O¼g¦nª±ªº¥é§@¡A©Ò¥Hcodeªøªº¤£«ç¼Ë¡A¤]Ãiªº»¡©ú¤F¡C
-­n§ï¦¨¥÷¦Cªíªº¸Ü­×§ï³Ì¤W­±¨º¤@¦ê°}¦C´N¦n¤F¡A¨ä¥L¤£¥Î°Ê(¤£¹Lºâ¥Xªºµ²ªG·|§¹¥þ¤£¦P)
+component_check.phpæ˜¯æœ¬é«”ã€‚é€™åªæ˜¯å¯«å¥½çŽ©çš„ä»¿ä½œï¼Œæ‰€ä»¥codeé•·çš„ä¸æ€Žæ¨£ï¼Œä¹Ÿæ‡¶çš„èªªæ˜Žäº†ã€‚
+è¦æ”¹æˆä»½åˆ—è¡¨çš„è©±ä¿®æ”¹æœ€ä¸Šé¢é‚£ä¸€ä¸²é™£åˆ—å°±å¥½äº†ï¼Œå…¶ä»–ä¸ç”¨å‹•(ä¸éŽç®—å‡ºçš„çµæžœæœƒå®Œå…¨ä¸åŒ)
 
-¥t¥~ÃB¥~¤Þ¨¥ªº³¡¥÷(stupid_stories.php)§Q¥Îinclude¤Þ¤J¡A¥i¦Û¦æ¤Á´«¬O§_¨Ï¥Î
-§âinclude¨º¦æ§R±¼´N¥i¥H¨ú®ø±¼¤F
+å¦å¤–é¡å¤–å¼•è¨€çš„éƒ¨ä»½(stupid_stories.php)åˆ©ç”¨includeå¼•å…¥ï¼Œå¯è‡ªè¡Œåˆ‡æ›æ˜¯å¦ä½¿ç”¨
+æŠŠincludeé‚£è¡ŒåˆªæŽ‰å°±å¯ä»¥å–æ¶ˆæŽ‰äº†
 
-component_check_orig.php¬OÂÂª©ªº¥»Åé
+component_check_orig.phpæ˜¯èˆŠç‰ˆçš„æœ¬é«”
 
-Á`¦Ó¨¥¤§¡A¦Û¤v¦³¥i¥H¶]phpªº¾÷¾¹ªº¤H¥i¥H©ñ¤W¥hµM«á§âºô§}¶K¦bptt¡A¤Ú«¢¡A©Î¨ä¥LÃþ¦üªº¦a¤è¡AÅý¦Û¤vªº¾÷¾¹¨É¨ü³Q¬y¶qÅF¬µªº§Ö·P
+ç¸½è€Œè¨€ä¹‹ï¼Œè‡ªå·±æœ‰å¯ä»¥è·‘phpçš„æ©Ÿå™¨çš„äººå¯ä»¥æ”¾ä¸ŠåŽ»ç„¶å¾ŒæŠŠç¶²å€è²¼åœ¨pttï¼Œå·´å“ˆï¼Œæˆ–å…¶ä»–é¡žä¼¼çš„åœ°æ–¹ï¼Œè®“è‡ªå·±çš„æ©Ÿå™¨äº«å—è¢«æµé‡è½Ÿç‚¸çš„å¿«æ„Ÿ
 
-®tÂI§Ñ¤F»¡¡A©Ò¦³code¨Ï¥Îªº½s½X¬Outf-8¡C½Ðµø»Ý­n½Õ¾ã³]©w¡C
+å·®é»žå¿˜äº†èªªï¼Œæ‰€æœ‰codeä½¿ç”¨çš„ç·¨ç¢¼æ˜¯utf-8ã€‚è«‹è¦–éœ€è¦èª¿æ•´è¨­å®šã€‚
